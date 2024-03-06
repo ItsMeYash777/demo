@@ -1,0 +1,13 @@
+h1{
+    font-size: 45px;
+    font-weight:650px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+}
+.todo-container{
+margin: 10px 15px;
+}
